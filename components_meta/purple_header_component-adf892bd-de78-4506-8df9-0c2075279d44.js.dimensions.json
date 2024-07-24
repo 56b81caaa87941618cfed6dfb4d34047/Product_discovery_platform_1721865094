@@ -1,0 +1,19 @@
+{
+    "id": "purple_header_component-adf892bd-de78-4506-8df9-0c2075279d44",
+    "name": "purple_header_component",
+    "type": "markdown",
+    "metadata": {},
+    "w": 1000,
+    "h": 1000,
+    "x": "100",
+    "y": "10",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "maxH": 12,
+    "moved": "false",
+    "static": "false",
+    "isDraggable": "true",
+    "isResizable": "true"
+}
